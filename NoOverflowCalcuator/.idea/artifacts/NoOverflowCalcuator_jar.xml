@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NoOverflowCalcuator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NoOverflowCalcuator_jar</output-path>
+    <root id="archive" name="NoOverflowCalcuator.jar">
+      <element id="module-output" name="NoOverflowCalcuator" />
+    </root>
+  </artifact>
+</component>
